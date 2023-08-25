@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SClassifier'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC5F232174584DF68F9A7043FD50E8E7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F36E859715AB478F859E4C594144A22E }}
